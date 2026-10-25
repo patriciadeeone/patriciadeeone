@@ -4,7 +4,7 @@
 
 .⋆✦ My programming languages are: Python, C, C++ (I am learning Linux and intrinsically use terminals because it looks cool)
 
-.⋆🕸️ I use obsidian for note-taking, pushed to Git in a private repo (but I can provide a .txt on how I do it)
+.⋆🕸️ I use Obsidian for note-taking, pushed to Git in a private repo (but I can provide a .txt on how I do it)
 
 I love gym and driving!
 
