@@ -1,3 +1,3 @@
 Hello, gorgeous!
 
-![GitHub Stats](https://vercel.app)
+![Patricia's Hot Pink Contribution Graph](https://rshah.org)
